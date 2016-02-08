@@ -16,3 +16,6 @@ Minecraft colors:
 &&k &kMagic&r   &&l &lBold
 &&m &mStrike&r  &&n &nUline
 &&o &oItalic&r   &&r &rReset
+#nEssentials
+&oThis plugin was made by:
+&lmcjakub1337pvp
